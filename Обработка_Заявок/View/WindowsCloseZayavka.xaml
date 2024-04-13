@@ -1,0 +1,56 @@
+﻿<Window x:Class="Обработка_Заявок.View.WindowsCloseZayavka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Обработка_Заявок.View"
+        mc:Ignorable="d"
+        Title="Закрытие заявки" Height="200" Width="500">
+    
+    <Grid Background="LightGray">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock Text="Номер заказа: "  Margin="0 0 10 0"
+                           Width="140" FontSize="16"/>
+
+                <TextBlock Text=" "  FontSize="16"
+                           x:Name="txbNumer" Margin="0 0 10 0"/>
+            </StackPanel>
+
+
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                <TextBlock Text="Заказчик:" Margin="0 0 10 0"
+                           Width="140"  FontSize="16"/>
+
+                <TextBlock Text="" x:Name="txbZakazchick"   FontSize="16"
+                           Margin="0 0 10 0"/>
+            </StackPanel>
+
+
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                <TextBlock Text="Оборудование: " Margin="0 0 10 0"  FontSize="16"
+                           Width="140"/>
+
+                <TextBlock Text="" x:Name="txbObor" FontSize="16"
+                           Margin="0 0 10 0"/>
+
+                <TextBlock Text="" x:Name="txbCount"  FontSize="16"/>
+                <TextBlock Text="x"  FontSize="16"/>
+            </StackPanel>
+
+
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                <TextBlock Text="Серийный номер: "  FontSize="16"
+                           Width="150"/>
+
+                <TextBox x:Name="txbSerialNumber" MaxLength="100"
+                         Width="300"    FontSize="16"
+                         TextWrapping="Wrap"/>
+            </StackPanel>
+            <Button Height="25" Width="100" Margin="0 10 0 0"
+                    Content="Закрыть заявку" x:Name="btnCloase" Click="btnCloase_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,351 @@
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.ResolveComReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.ResolveComReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Всячина\Курсовая_ОМ\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.ResolveComReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Дипломы\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.ResolveComReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПП02\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.ResolveComReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\ПредДиплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\Обработка_Заявок.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.ResolveComReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_Content.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazStep2.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Add\PageAddZakazZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewCity.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewIsp.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewOboryd.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewYsl.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZak.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakaz.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\PageMain.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\PageViewZakazi.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\View\WindowsCloseZayavka.baml
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.exe
+C:\Users\ilias\OneDrive\Рабочий стол\Задания с колледжа\Диплом\Таболин\Обработка_Заявок\Обработка_Заявок\obj\Debug\Обработка_Заявок.pdb

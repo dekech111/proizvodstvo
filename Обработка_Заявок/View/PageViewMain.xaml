@@ -1,0 +1,71 @@
+﻿<Page x:Class="Обработка_Заявок.View.PageViewMain"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Обработка_Заявок.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Просмотр информации">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" Height="214"
+                    VerticalAlignment="Center" Width="276">
+            <Label Content="Просмотр" 
+                HorizontalAlignment="Center" FontSize="20"/>
+            <Button  HorizontalAlignment="Left"
+                         Content="Услуг" 
+                         Height="47"
+                         Width="120"
+                         FontSize="16"
+                         x:Name="btnViewYsl" Click="btnViewYsl_Click"/>
+            <Button HorizontalAlignment="Right"
+                        Content="Заказчика" 
+                        Height="47"
+                        Width="123"
+                        Margin="0,-49,0,0" 
+                        FontSize="16"
+                        x:Name="btnViewZak" Click="btnViewZak_Click"/>
+            <Button HorizontalAlignment="Left"
+                        Content="Исполнителя" 
+                        Height="47" 
+                        Width="120"
+                        Margin="0,10,0,0"
+                        FontSize="16"
+                        x:Name="btnViewIpl" Click="btnViewIpl_Click"/>
+            <Button HorizontalAlignment="Right"
+                        Content="Оборудования" 
+                        Height="47"
+                        Width="123" 
+                        Margin="0,-49,0,0" 
+                        FontSize="16"
+                        x:Name="btnViewOboryd" Click="btnViewOboryd_Click"/>
+            <Button HorizontalAlignment="Right"
+                    Content="Городов" 
+                    Height="47"
+                    Width="123" 
+                    Margin="0,10,0,0" 
+                    FontSize="16"
+                    x:Name="btnViewCity" Click="btnViewCity_Click" 
+                        />
+            <Button HorizontalAlignment="Left"
+                Content="Заказы" 
+                Height="47" 
+                Width="120"
+                Margin="0,-46,0,0"
+                FontSize="16"
+                x:Name="btnViewZakaz" Click="btnViewZakaz_Click"/>
+        </StackPanel>
+        <Button Content="Назад"
+            Width="80"
+            Height="25"
+            Margin="5"
+            Background="Transparent"
+            BorderBrush="Transparent"
+            x:Name="BtnBack"
+            VerticalAlignment="Top"
+            HorizontalAlignment="Right"
+            FontSize="16" Click="BtnBack_Click"/>
+
+    </Grid>
+</Page>
